@@ -177,9 +177,9 @@ Based on the station-level dataset, station types can be clustered. This is done
 
 23_recalculate_incomequantiles.ipynb:
 - Input: BGlevel/22_level_BG_US_imputed_250702.csv and CTlevel/22_level_CT_US_compiled_wlabels_250702.csv
+- Recalculates income quantiles based on imputed income data
+- Output: BGlevel/23_level_BG_US_imputedquantiles_20250722.zip and CTlevel/23_level_CT_US_imputedquantiles_20250722.zip
 
 ## Requirements
 This code was run with Python 3.13.0 and the requirements.txt file in this folder. 
-- Recalculates income quantiles based on imputed income data
 
-- Output: BGlevel/23_level_BG_US_imputedquantiles_20250722.zip and CTlevel/23_level_CT_US_imputedquantiles_20250722.zip
