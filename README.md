@@ -26,7 +26,7 @@ To run the code, please initialize a virtual environment and install the package
 
 # Data
 
-Please consult the manuscript on the original data. All data is public except for mobility data which was provided confidentially by SafeGraph. The data files needed to reproduce the figures in the main manuscript are published here:. 
+Please consult the manuscript on the original data. All data is public except for mobility data which was provided confidentially by SafeGraph. The data files needed to reproduce the figures in the main manuscript are published here: [submitted to Mendeley Data, pending moderator review].
 
 # Acknowledgements
 
