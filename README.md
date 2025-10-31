@@ -6,6 +6,8 @@ Contact:
 - spowell (at) ethz (dot) ch
 - arlt (at) uni-bayreuth (dot) de
 
+Please cite this code using the DOI [![DOI](https://zenodo.org/badge/1087188066.svg)](https://doi.org/10.5281/zenodo.17494751). Siobhan Powell and Marie-Louise Arlt. (2025). SiobhanPowell/income-based-charging-station-policies: (v1.0.1). Zenodo. doi: 10.5281/zenodo.17494751.
+
 # Abstract
 
 Widespread electric vehicle use is a key step to tackling transportation emissions, but adoption has yet to take-off beyond high-income communities. A lack of access to public charging stations can be a major barrier to adoption. In this paper, we analyze the distribution and typology of public charging stations found in low-, mid-, and high-income communities across the US. Our results identify a robust neighborhood advantage, where high income in the surrounding area coincides with higher numbers of public stations in lower income block groups. We further show that station types in lower income areas are associated with shorter stops, suggesting they are designed to serve pass-through demand. Future income-based policies for public charging infrastructure should consider how new stations fit local residents' mobility patterns and should use both local and neighborhood and income, to better target their support toward equal access for all future electric vehicle drivers.
