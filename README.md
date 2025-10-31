@@ -6,7 +6,9 @@ Contact:
 - spowell (at) ethz (dot) ch
 - arlt (at) uni-bayreuth (dot) de
 
-Please cite this code using the DOI [![DOI](https://zenodo.org/badge/1087188066.svg)](https://doi.org/10.5281/zenodo.17494751). Siobhan Powell and Marie-Louise Arlt. (2025). SiobhanPowell/income-based-charging-station-policies: (v1.0.1). Zenodo. doi: 10.5281/zenodo.17494751.
+Please cite this code as: Siobhan Powell and Marie-Louise Arlt. (2025). SiobhanPowell/income-based-charging-station-policies: (v1.0.1). Zenodo. doi: 10.5281/zenodo.17494751.
+
+[![DOI](https://zenodo.org/badge/1087188066.svg)](https://doi.org/10.5281/zenodo.17494751). 
 
 # Abstract
 
