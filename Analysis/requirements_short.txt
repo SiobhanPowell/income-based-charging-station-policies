@@ -1,0 +1,10 @@
+geopandas==0.12.2
+matplotlib==3.6.0
+numpy==1.23.3
+pandas==2.1.4
+us==3.2.0
+statsmodels==0.13.5
+scikit-learn==1.5.1
+IPython==8.5.0
+stargazer==0.0.7
+scipy==1.9.1
