@@ -26,8 +26,10 @@ To run the code, please initialize a virtual environment and install the package
 
 # Data
 
-Please consult the manuscript on the original data. All data is public except for mobility data which was provided confidentially by SafeGraph. The data files needed to reproduce the figures in the main manuscript are published here: [submitted to Mendeley Data, pending moderator review].
+Please consult the manuscript on the original data sources. All data is publicly available except for the mobility data which was provided confidentially by SafeGraph. The data files of outputs needed to reproduce the figures in the main manuscript are published here: https://data.mendeley.com/datasets/v22k6k63sx/1. 
+
+Please cite this dataset as: Powell, Siobhan; Arlt, Marie-Louise (2025), “Income-Based Policies for Public Electric Vehicle Charging Station Deployment”, Mendeley Data, V1, doi: 10.17632/v22k6k63sx.1
 
 # Acknowledgements
 
-The authors thank SafeGraph for providing the mobility data. S. Powell gratefully acknowledges support from an ETH Postdoctoral Fellowship and an Ambizione Grant from the Swiss National Science Foundation. Marie-Louise Arlt gratefully acknowledges funding received from the European Union’s Framework Programme for Research and Innovation Horizon 2020 (2014-2020) under the Marie Sklodowska-Curie Grant Arrangement No. 754388 (LMUResearchFellows) and from LMUexcellent, funded by the Federal Ministry of Education and Research (BMBF) and the Free State of Bavaria under the Excellence Strategy of the German Federal Government and the Länder.
+The authors thank SafeGraph for providing the mobility input data. S. Powell gratefully acknowledges support from an ETH Postdoctoral Fellowship and an Ambizione Grant from the Swiss National Science Foundation. Marie-Louise Arlt gratefully acknowledges funding received from the European Union’s Framework Programme for Research and Innovation Horizon 2020 (2014-2020) under the Marie Sklodowska-Curie Grant Arrangement No. 754388 (LMUResearchFellows) and from LMUexcellent, funded by the Federal Ministry of Education and Research (BMBF) and the Free State of Bavaria under the Excellence Strategy of the German Federal Government and the Länder.
