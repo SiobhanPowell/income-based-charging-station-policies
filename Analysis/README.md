@@ -1,6 +1,6 @@
 # Analysis
 
-This repository accompanies the manuscript "Income-Based Policies for Public Electric Vehicle Charging Station Deployment" by Siobhan Powell (ETH Zürich) and Marie-Louise Arlt (University of Bayreuth and Bavarian Center of Battery Technology).
+This repository accompanies the manuscript "Mobility and Income: Policy Insights to Support Public Electric Vehicle Charging Access" (formerly "Income-Based Policies for Public Electric Vehicle Charging Station Deployment") by Siobhan Powell (ETH Zürich) and Marie-Louise Arlt (University of Bayreuth and Bavarian Center of Battery Technology).
 
 ### Organization
 
